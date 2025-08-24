@@ -1,0 +1,177 @@
+# Paste your personal data here (e.g., social media profiles, resume, etc.)
+# Example:
+# Name: Kishan Kumar Keshri
+# LinkedIn: linkedin.com/in/kishankkeshri
+# Twitter: @kishankkeshri
+# Resume: Kishan Kumar Keshri
+UG (VI Year II Semester)
+Integrated M.Tech. Geological Technology
+Contact No: 9939358506
+Email: kishan_kk@es.iitr.ac.in
+Registration No: 20410014/2026
+Indian Institute of
+Technology
+Roorkee
+Year Degree/Examination Institution/Board CGPA/
+Percentage
+5th 5th Year Indian Institute of Technology, Roorkee 6.105
+2020 Intermediate (Class XII) Sarvodaya SR sec school , Kota 8.720
+2018 Matriculate (Class X) Delhi Public school, Dhanbad 8.830
+Area of Interest
+Product management, Analytics, Machine Learning, Finance, Entrepreneurship
+Education
+Internships
+Product and Growth intern | Cure.link
+May 2022 - June 2022
+•
+Improved the inside sales process efficiency by 20% by analysing user data using tools like Mixpanel and Metabase
+and integrating Whatsapp APIs.
+•
+Ideated New SAAS Services by studying competitors, current users, and increasing market share by 20% a year.
+•
+Devised various strategies to reduce the DNPs by 30% , increase user engagement, and improve the user experience.
+Product Management Intern | Datakalp.in
+July 2022 - September 2022
+•
+Enhanced HAIgenie's 4 AI enabled sub-products; conducted 50+ user interviews across the USA; improving features
+•
+Designed key PRDs ; boosted product dev. efficiency by 30% ensuring clear, actionable product requirements
+•
+Achieved CAHO certification; ensured compliance with standards, reducing Hospital Acquired Infections (HAIs) by 15%
+Intern- Product Department | Fisdom
+August 2022 - August 2023
+•
+Building OnePercent Academy ( Subsidiary of Fisdom) from 0-1, plotted functional content for financial Markets.
+•
+Designed and worked on its GTM strategy , resulted a total 10K impressions and conversion rate of 9%.
+Supply Chain Analyst | ** Zepto **
+November 2023 - February 2024
+•
+Warehouse Picker Incentive Scheme Design using TMS analysis and increased the efficiency by 23%.
+•
+Created dynamic dashboards for providing real-time insights, facilitating data-driven decisions for performance.
+•
+Enhanced compliance recirculation processes, which led to a 15% reduction in compliance-related issues.
+Full Stack Engineer | Cure.link
+May 2022 - July 2022
+•
+Implemented Redux Toolkit in React Native CureLink App which has more than 10k downloads and serves major
+business.
+•
+Build end to end functionality for Doctor management on their Internal Dashboard(200+ daily users).
+•
+Developed their exports website (Gatsby + Strapi) showcase business and generate leads.
+Projects
+Investigating the adoption of Electric cycles for campus commute in IIT Roorkee | Enactus IITR
+May 2023 - July 2023
+•
+Conducting surveys and 50+ interviews with students and faculty members to understand their needs and concerns.
+•
+Using various techniques such as Heuristics and discrete location optimization Increasing accessibility by 35%.
+Investigating paper waste management and recycling in IIT Roorkee Campus | Enactus IITR
+January 2023 - March 2023
+•
+SWM is the controlled generation, storage, collection, transport, processing, and disposal of solid waste considering public
+health, conservation, economics, and environmental conditions.
+Indian Crop disease insights using KCC data | Enactus IITR
+August 2022 - September 2022
+•
+Using SQL analyzed over 10,000 records of crop disease data, identifying the top 5 most common diseases affecting
+crops, identifies top diseases impacting 70% of crops, reveals that 60% occur in monsoons.
+•
+Predicts outbreaks with 85% accuracy through Tableau visualizations and modeling enabling targeted preventive.
+Plant disease detection using hybrid model based on convolutional autoencoder and convolutional neural
+network | Enactus IITR
+May 2023 - July 2023
+•
+A hybrid model based on CNN and CAE was built for automatic plant disease detection.
+•
+CAE was used to reduce the training parameters of the hybrid model.
+•
+The model achieved 99.35% training accuracy and 98.38% testing accuracy.
+LED Adaptive Display | Aries IITR
+April 2022 - June 2022
+•
+The objective of this project is to illustrate a technique of implementing adaptive brightness control to seven segment
+LED displays.
+•
+It consists of a closed loop system that continuously assesses ambient light condition using an inexpensive light-
+dependent resistor (LDR) and uses that information to adjust the brightness of the display.
+Project ARK | Enactus IITR
+May 2022 - June 2023
+•Upcycling floral waste from religious sites to develop incense sticks, simultaneously creating local entrepreneurs Led a
+team of 9+ members and successfully launched the product under the brand name ARK Trained and employed 15+
+women from Anushruti Academy for product development, thus empowering them
+Outreach Cell website Devlopment | Outreach IITR
+October 2021 - June 2022
+•
+Developed the whole web app from scratch using React framework. Contributed to the User experience and maintenance
+of the web app.
+Using Python libraries in Finance | Enactus IITR
+October 2022 - December 2022
+•
+Developed a fraud detection model using a Random Forest Classifier with an accuracy of 99.96%, effectively handling
+an imbalanced dataset (Legit: 99.87%, Fraud: 0.13%) with over 6.3 million transactions.
+•
+Extensive data preprocessing, label encoding and multicollinearity assessment using Variance Inflation Factor (VIF).
+•
+Leveraged Seaborn and Matplotlib to develop visualizations of confusion matrices and AUC ROC curves**,
+enhancing model performance evaluation and **achieving a 20% increase in successful fraud detection in
+banking operations.
+Zippy | Enactus IITR
+•
+Case study for solving urban traffic issues by introducing "airbnb for car parking and EV charging".
+•
+A platform where residential property owners can lend their personal parking on hourly basis when vacant.
+WhatsApp Revamp UI UX Case Study | Enactus IITR
+December 2022 - February 2023
+April 2023 - July 2023
+•
+•
+Geological Field Training | Department of Earth Sciences, IIT Roorkee
+March 2023 - April 2023
+Conducted comprehensive analysis of Pur-Banera region's geology, tectonic subdivision, and geological features. Utilized
+Brunton compass, compass, and GPS for manual calculations of strike and dip measurements of faults, folds, and
+lineations in exposed rocks. Stereonets for accurate plotting of fold axis measurements.
+Awards / Scholarships / Academic Achievements
+•
+•
+•
+First position in Sociothon case study (UBA IITR)
+Second RunnerUp | Endeavour Entrepreneurship( E-cell IITR ) (2021)
+First positon in CogniStreet (2021)
+Positions of Responsibility & Extra Curriculars
+Senior Manager | Enactus
+April 2023 - May 2023
+•
+Formulated solutions for numerous problems and challenges encountered during the development of business models
+Spearheaded a team of more than 25 students to focus on the self-sustainability of social entrepreneurship projects
+Joint Secretary | Culinary Club
+May 2022 - May 2023
+•
+Secretary of India's First Student-Run Cafe. Operated weekend cafe and lead a team of 10+ members to cook and sell
+food to 50+ people.
+Head Admin | Appetizer
+August 2021 - May 2022
+•
+Headed a team for the development of an app which acts as a central database of all Mess related activities. Co-
+ordinated between Bhawan administration & the technical team to come up with an app.
+Competitive Programmer | Online Judges
+October 2021 - Present
+•
+Active member on CodeForces. Maximum rating : CodeForces: 1503(Specialist) , handle: ATGP07
+References
+Abhayanand Singh Maurya
+Associate Professor
+Earth Sciences, IIT Roorkee
+asmaurya@es.iitr.ac.in
+Amit Upadhyay
+Assistant Professor, Management Studies
+IIT Roorkee
+amit@ms.iitr.ac.in
+9414593404
+
+
+
+
+
