@@ -48,7 +48,7 @@ if "chat_history" not in st.session_state:
         {"role": "assistant", "content": "Hello! I'm your personal assistant. Ask me anything about you!"}
     ]
 
-# Inject custom CSS for background and animations
+# Inject custom CSS for dark mode
 st.markdown(
     """
     <style>
@@ -57,41 +57,32 @@ st.markdown(
         background-size: cover;
         background-attachment: fixed;
         background-position: center;
+        background-color: #181818 !important;
     }
-    .stApp {
-        background: rgba(255,255,255,0.85);
-        border-radius: 16px;
-        box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
-        padding: 2rem;
-        margin-top: 2rem;
-        animation: fadeInApp 1.2s;
+    .stApp, .stChatMessage, .stTextInput, .stButton, .stMarkdown, .stTitle {
+        background: rgba(24,24,24,0.92) !important;
+        color: #f1f1f1 !important;
+        box-shadow: none !important;
     }
-    @keyframes fadeInApp {
-        from { opacity: 0; transform: translateY(30px); }
-        to { opacity: 1; transform: translateY(0); }
+    .stTextInput > div > input, .stTextInput > label {
+        color: #f1f1f1 !important;
+        background: #222 !important;
     }
-    .element-container .stChatMessage {
-        animation: fadeInMsg 0.8s;
+    .stButton > button {
+        background: #333 !important;
+        color: #f1f1f1 !important;
+        border: 1px solid #444 !important;
     }
-    @keyframes fadeInMsg {
-        from { opacity: 0; transform: translateY(20px); }
-        to { opacity: 1; transform: translateY(0); }
+    .stMarkdown, .stTitle, .stChatMessage {
+        color: #f1f1f1 !important;
     }
-    .animated-bg {
-        position: fixed;
-        top: 0; left: 0; width: 100vw; height: 100vh;
-        z-index: -1;
-        pointer-events: none;
-        background: radial-gradient(circle at 20% 30%, #a1c4fd55 0%, transparent 70%),
-                    radial-gradient(circle at 80% 70%, #c2e9fb55 0%, transparent 70%);
-        animation: moveBg 10s infinite alternate;
-    }
-    @keyframes moveBg {
-        0% { background-position: 20% 30%, 80% 70%; }
-        100% { background-position: 25% 35%, 75% 65%; }
+    /* Remove overlays and effects */
+    .animated-bg, .element-container .stChatMessage, .stApp[style*="box-shadow"] {
+        background: none !important;
+        box-shadow: none !important;
+        animation: none !important;
     }
     </style>
-    <div class="animated-bg"></div>
     """,
     unsafe_allow_html=True
 )
