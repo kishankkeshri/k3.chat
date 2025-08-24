@@ -48,11 +48,16 @@ if "chat_history" not in st.session_state:
         {"role": "assistant", "content": "Hello! I'm your personal assistant. Ask me anything about you!"}
     ]
 
-# Inject custom CSS for dark mode
+# Inject custom CSS for dark mode and background image
 st.markdown(
     """
     <style>
-    body {
+    .background-container {
+        min-height: 100vh;
+        width: 100vw;
+        position: fixed;
+        top: 0; left: 0;
+        z-index: -1;
         background-image: url('https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=1500&q=80');
         background-size: cover;
         background-attachment: fixed;
@@ -71,18 +76,19 @@ st.markdown(
     .stButton > button {
         background: #333 !important;
         color: #f1f1f1 !important;
-        border: 1px solid #444 !important;
-    }
-    .stMarkdown, .stTitle, .stChatMessage {
-        color: #f1f1f1 !important;
-    }
     /* Remove overlays and effects */
+    .animated-bg, .stApp[style*="box-shadow"] {
+        background: none !important;
+        box-shadow: none !important;
+        animation: none !important;
+    }
     .animated-bg, .element-container .stChatMessage, .stApp[style*="box-shadow"] {
         background: none !important;
         box-shadow: none !important;
         animation: none !important;
     }
     </style>
+    <div class="background-container"></div>
     """,
     unsafe_allow_html=True
 )
